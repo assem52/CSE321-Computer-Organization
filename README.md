@@ -18,7 +18,6 @@ CSE321-Computer-Organization/
 │
 └── README.md # You are here
 
----
 
 ## 🚀 How to Run
 
