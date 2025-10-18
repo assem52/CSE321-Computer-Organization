@@ -7,15 +7,14 @@ The labs are mainly written in **MIPS Assembly** and aim to deepen understanding
 
 ## 📂 Repository Structure
 
-CSE321-Computer-Organization/
-│
-├── Lab1/ # Basic MIPS I/O and arithmetic operations
-├── Lab2/ # Conditional statements and loops
-├── Lab3/ # Procedures, stack usage, and function calls
-├── Lab4/ # Arrays and strings manipulation
-├── Lab5/ # System calls and file I/O
-├── Lab6/ # Mini projects / combined exercises
-│
+**CSE321-Computer-Organization**    
+├── Lab1/ # Basic MIPS I/O nd arithmetic operations   
+├── Lab2/ # Conditional statements and loops   
+├── Lab3/ # Procedures, stack usage, and function calls\n   
+├── Lab4/ # Arrays and strings manipulation\n   
+├── Lab5/ # System calls and file I/O\n     
+├── Lab6/ # Mini projects / combined exercises\n   
+│  
 └── README.md # You are here
 
 
